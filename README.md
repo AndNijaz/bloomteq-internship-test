@@ -779,7 +779,7 @@ Zaposlenici za praćenje vlastitog napretka, zadataka, ocjenjivanje kolega i pri
 
 ---
 
-![🖼️ User Dashboard](images/user_dashboard.svg)
+![🖼️ User Dashboard](images/user_dashboard.jpg)
 
 ---
 
@@ -808,7 +808,7 @@ Zaposlenici koji žele pratiti svoj karijerni napredak i odabrati nove puteve ra
 
 ---
 
-![🖼️ Bucket Search and Selection](images/bucket_search_selection.svg)
+![🖼️ Bucket Search and Selection](images/bucket_search_selection.jpg)
 
 ---
 
@@ -838,7 +838,7 @@ Zaposlenici za praćenje trenutnih zahtjeva, planiranje razvoja i pripremu za pr
 
 ---
 
-![🖼️ Bucket Level Detail](images/bucket_level_detail.svg)
+![🖼️ Bucket Level Detail](images/bucket_level_detail.jpg)
 
 ---
 
@@ -868,7 +868,7 @@ Zaposlenici koji žele znati šta ih čeka u narednom nivou karijernog puta i ka
 
 ---
 
-![🖼️ Next Bucket Level Preview](images/next_bucket_level_preview.svg)
+![🖼️ Next Bucket Level Preview](images/next_bucket_level_preview.jpg)
 
 ---
 
@@ -898,7 +898,7 @@ Zaposlenici koji su u fazi napredovanja ka višem nivou i žele pratiti preostal
 
 ---
 
-![🖼️ Next Level in Progress](images/next_level_in_progress.svg)
+![🖼️ Next Level in Progress](images/next_level_in_progress.jpg)
 
 ---
 
@@ -928,7 +928,7 @@ Zaposlenici koji su dostigli finalni nivo karijernog puta i žele pratiti steče
 
 ---
 
-![🖼️ Final Bucket Level Overview](images/final_bucket_level_overview.svg)
+![🖼️ Final Bucket Level Overview](images/final_bucket_level_overview.jpg)
 
 ## 5. API Dokumentacija (Skica)
 
